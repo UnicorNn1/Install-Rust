@@ -28,4 +28,7 @@ This will display the installed Rust version.
 
 For more detailed instructions, please refer to the official Rust documentation: [Install Rust](https://www.rust-lang.org/tools/install)
 
+or more detailed documents: [Installation](https://doc.rust-lang.org/cargo/getting-started/installation.html)
+
+
 
