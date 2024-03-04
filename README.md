@@ -29,6 +29,22 @@ This will display the installed Rust version.
 For more detailed instructions, please refer to the official Rust documentation: [Install Rust](https://www.rust-lang.org/tools/install)
 
 or more detailed documents: [Installation](https://doc.rust-lang.org/cargo/getting-started/installation.html)
+## update Rust in Ubuntu/Linux
+To update Rust in Ubuntu, you can use the `rustup` tool. Here's how to do it:
+Open a terminal window.
+
+Run the following command to update `rustup`:
+```bash
+rustup update
+```
+Verify that Rust is updated to the latest version by checking the version number:
+```bash
+rustc --version
+```
+This should display the version of Rust that you have installed
+
+You have successfully updated Rust in Ubuntu
+
 
 
 
