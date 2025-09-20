@@ -1,5 +1,5 @@
 # Install-Rust
-## To install Rust on a Linux/Ubuntu system, follow these steps
+## To install Rust on a Linux/Ubuntu system,follow these steps
 1-Open the terminal. 
 
 2-Update the package list by running the following command:
